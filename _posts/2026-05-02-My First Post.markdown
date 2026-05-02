@@ -8,4 +8,6 @@ description: Why withLatestFrom offers no guarantees
 ---
 
 ### Let's get started
-A handy explanation for `withLatestFrom` can be found [here](https://www.learnrxjs.io/learn-rxjs/operators/combination/withlatestfrom)
+A handy explanation for `withLatestFrom` from the RxJava library can be found [here](https://www.learnrxjs.io/learn-rxjs/operators/combination/withlatestfrom).
+
+###
